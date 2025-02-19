@@ -89,3 +89,7 @@ def helo():
     response = requests.get(url, headers=headers)
     print(response.json())
     return '<h1>Send template</h1>'
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
