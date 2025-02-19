@@ -39,7 +39,7 @@ def hello_world():
                         {
                             "type": "IMAGE",
                             "image": {
-                                "link": "https://scontent.whatsapp.net/v/t61.29466-34/473402686_1359234888537845_7548250917299565939_n.png?ccb=1-7&_nc_sid=8b1bef&_nc_eui2=AeHSqty5ezc2WVON6RhjS8o2Eyhlut-_HRETKGW6378dETdxuSWROhj4TQ4RBCbxAQRJZsZJsARTzZ9Umm_bYIBh&_nc_ohc=-dNaJDzc6-EQ7kNvgEF4DZg&_nc_oc=AdhF9A0HD2ZYVm5ISkyBsTgeAZy3LvpdUbUaVIYuPxFUfkGzaxMlf7IedctEeEBGQcI&_nc_zt=3&_nc_ht=scontent.whatsapp.net&edm=AH51TzQEAAAA&_nc_gid=A-CVdCpfHmqCRVXqsNBjy5o&oh=01_Q5AaIEtLRqLTDAQWbnLKfLo2uA49n-O925RgpG2bkFJNtgjt&oe=67DD9BE2"
+                                "link": "lemsip.png"
                             }
                         }
                     ]
